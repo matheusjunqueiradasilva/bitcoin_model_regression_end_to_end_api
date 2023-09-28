@@ -16885,3 +16885,21 @@ Alternately, you can install this by running `pip install pycaret[models]`
 2023-09-28 14:00:37,485:INFO:Preloading libraries
 2023-09-28 14:00:37,485:INFO:Set up data.
 2023-09-28 14:00:37,495:INFO:Set up index.
+2023-09-28 14:17:32,465:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-28 14:17:32,465:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-28 14:17:32,475:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-28 14:17:32,475:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-28 14:17:33,466:INFO:Initializing load_model()
+2023-09-28 14:17:33,466:INFO:load_model(model_name=bitcoin_models, platform=None, authentication=None, verbose=True)
+2023-09-28 14:18:10,821:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-28 14:18:10,821:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-28 14:18:10,821:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-28 14:18:10,821:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
