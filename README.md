@@ -49,7 +49,3 @@ Siga as etapas abaixo para executar o código e fazer previsões de preços do B
 
    print("Previsão de Preço do Bitcoin:", result["prediction"])
    ```
-
-Isso é tudo! Você agora tem um serviço de previsão de preços do Bitcoin em funcionamento usando PyCaret e FastAPI. Certifique-se de adaptar os campos de entrada conforme necessário e considere implantar a aplicação em um ambiente de produção, se necessário.
-
-Lembre-se de que este código é apenas um exemplo e pode ser expandido e personalizado de acordo com suas necessidades específicas.
