@@ -1,4 +1,4 @@
-# - Predição de Preços do Bitcoin com PyCaret e FastAPI
+# Predição de Preços do Bitcoin com PyCaret e FastAPI
 
 Este projeto utiliza a biblioteca PyCaret para criar um modelo de regressão e o framework FastAPI para criar uma API de predição de preços de fechamento das ações do Bitcoin. O código carrega um modelo previamente treinado e permite que os usuários façam previsões com base em dados fornecidos via API.
 
